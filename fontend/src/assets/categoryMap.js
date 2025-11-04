@@ -1,9 +1,8 @@
 export const categoryDisplay = {
-    "rice": "GẠO",
-    "drinks": "ĐỒ UỐNG",
-    "pizza": "PIZZA Ý",
-    "salad": "SALAD TƯƠI",
-    "pasta": "MÌ Ý",
+    "Drinks": "ĐỒ UỐNG",
+    "Pizza": "PIZZA",
+    "Chicken": "NGHIỀN GÀ",
+    "Appetizer": "MÓN KHAI VỊ",
     "Drinking Food": "ĐỒ NHẬU",
     "Rice Dishes": "CƠM",
     "Beverages": "ĐỒ UỐNG",
